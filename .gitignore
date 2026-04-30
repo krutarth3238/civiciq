@@ -1,0 +1,7 @@
+.env
+credentials.json
+token_*.pickle
+sheet_id.txt
+__pycache__/
+*.pyc
+.pytest_cache/

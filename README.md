@@ -1,4 +1,4 @@
-content = """# 🗳️ CivicIQ — AI-Powered Election Process Education Assistant
+# 🗳️ CivicIQ — AI-Powered Election Process Education Assistant
 
 > Empowering citizens with knowledge. Strengthening democracy through education.
 

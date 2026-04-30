@@ -5,3 +5,6 @@ google-api-python-client
 rich
 python-dotenv
 pytest
+flask
+flask-cors
+gunicorn
